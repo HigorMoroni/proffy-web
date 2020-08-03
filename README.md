@@ -8,7 +8,7 @@
   </a>
 </p>
 
-> Esse é uma das três partes do projeto Proffy, projeto esse que faz parte da Next Level Week #2, semana de desenvolvimento focado da Rocketseat :rocket:
+> Essa é uma das três partes do projeto Proffy, projeto esse que faz parte da Next Level Week #2, semana de desenvolvimento focado da Rocketseat :rocket:
 
 Esse repositório consiste no front-end web do projeto Proffy que permite ao publico conhecer, consultar e encontar, professores particulares para receber aulas on-line. Na aplicação web é possível listar os professores, filtra-los e se cadastrar como um professor para receber contato de alunos.
 
