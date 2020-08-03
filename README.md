@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./src/assets/images/logoalt.svg" alt="proffy-web" width="280"/>
+   <img src="https://raw.githubusercontent.com/HigorMoroni/proffy-web/master/screens/logo.svg" alt="proffy-web" width="280"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" />
@@ -14,8 +14,8 @@ Esse repositório consiste no front-end web do projeto Proffy que permite ao pub
 
 ### :scream_cat: Screens
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img src="./screens/leanding-desktop.png" height="400px">
-   <img src="./screens/leanding-mobile.png" height="400px">
+   <img src="https://raw.githubusercontent.com/HigorMoroni/proffy-web/master/screens/leanding-desktop.png" height="400px">
+   <img src="https://raw.githubusercontent.com/HigorMoroni/proffy-web/master/screens/leanding-mobile.png" height="400px">
 </div>
 
 # :computer: Technologias utilizadas
