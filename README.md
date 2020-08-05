@@ -20,7 +20,7 @@ Esse repositório consiste no front-end web do projeto Proffy que permite ao pub
 
 # Outros Repositórios
 
-#### <a href="https://github.com/HigorMoroni/proffy-web">Front-end Web</a>
+#### <a href="https://github.com/HigorMoroni/proffy-server">Api Back-end</a>
 
 # :computer: Technologias utilizadas
 Construido com :yellow_heart: usando as tecnologias:
@@ -36,7 +36,7 @@ Construido com :yellow_heart: usando as tecnologias:
 
 <ul>
   <li><a href="https://github.com/HigorMoroni">Github</a></li>
-  <li><a href="https://vercel.com/">ReactJS</a></li>
+  <li><a href="https://vercel.com/">Vercel</a></li>
 </ul>
 
 # :construction_worker: Rodando o projeto
