@@ -18,6 +18,10 @@ Esse repositório consiste no front-end web do projeto Proffy que permite ao pub
    <img src="https://raw.githubusercontent.com/HigorMoroni/proffy-web/master/screens/landing-mobile.png" height="400px">
 </div>
 
+# Outros Repositórios
+
+#### <a href="https://github.com/HigorMoroni/proffy-web">Front-end Web</a>
+
 # :computer: Technologias utilizadas
 Construido com :yellow_heart: usando as tecnologias:
 
