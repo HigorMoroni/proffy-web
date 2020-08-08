@@ -21,7 +21,7 @@ Esse repositório consiste no front-end web do projeto Proffy que permite ao pub
 # Outros Repositórios
 
 #### <a href="https://github.com/HigorMoroni/proffy-server">Api Back-end</a>
-#### <a href="https://github.com/HigorMoroni/proffy-server">App Mobile</a>
+#### <a href="https://github.com/HigorMoroni/proffy-mobile">App Mobile</a>
 
 # :computer: Technologias utilizadas
 Construido com :yellow_heart: usando as tecnologias:
