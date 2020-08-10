@@ -42,7 +42,7 @@ const TeacherItem: React.FC<TeacherItemProps> = ({ teacher }) => {
       <footer>
         <p>
           Preço/hora
-          <strong>R$ {teacher.cost.replace('.',','}</strong>
+          <strong>R$ {teacher.cost.replace('.',',')}</strong>
         </p>
         <a href={`https://wa.me/${teacher.whatsapp}`}
           target="_blank"
